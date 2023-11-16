@@ -1,0 +1,90 @@
+{
+	"ID": 1,
+	"title": "Event report Glucose",
+	"series": [
+		{
+			"ID": "D9920BCB-93FD-445A-9695-5D92AAC298E1",
+			"name": "food",
+			"graphLineCol": "S3",
+			"defaultValue": null,
+			"type": "marker",
+			"color": "#0B0480",
+			"meta1": "triangle",
+			"order": null,
+			"showOnChart": 0,
+			"showInLegend": 1
+		},
+		{
+			"ID": "13E1E294-28CF-4512-AE3E-6B94F99F30F1",
+			"name": "lower",
+			"graphLineCol": "S1",
+			"defaultValue": null,
+			"type": "startstopline",
+			"color": "#808080",
+			"meta1": null,
+			"order": 10,
+			"showOnChart": 1,
+			"showInLegend": 0
+		},
+		{
+			"ID": "1034BF1E-89B5-4DD7-B9C3-974A2F3872D4",
+			"name": "activity",
+			"graphLineCol": "S5",
+			"defaultValue": null,
+			"type": "bar",
+			"color": "#EAFFDD",
+			"meta1": null,
+			"order": null,
+			"showOnChart": 0,
+			"showInLegend": 1
+		},
+		{
+			"ID": "832B140B-32BB-4C3A-88D7-9A337A4D9EBE",
+			"name": "glucose",
+			"graphLineCol": "GCV",
+			"defaultValue": null,
+			"type": "line",
+			"color": "#A3CF1A",
+			"meta1": null,
+			"order": 0,
+			"showOnChart": 1,
+			"showInLegend": 1
+		},
+		{
+			"ID": "01A4F9F2-AD26-4449-B564-B99579CFAC08",
+			"name": "upper",
+			"graphLineCol": "S2",
+			"defaultValue": null,
+			"type": "startstopline",
+			"color": "#808080",
+			"meta1": null,
+			"order": 20,
+			"showOnChart": 1,
+			"showInLegend": 0
+		},
+		{
+			"ID": "5A62B647-90C5-45CD-AB84-D60CA14B5CA2",
+			"name": "glucose red",
+			"graphLineCol": "S4",
+			"defaultValue": null,
+			"type": "line",
+			"color": "#ED7753",
+			"meta1": null,
+			"order": 30,
+			"showOnChart": 1,
+			"showInLegend": 0
+		},
+		{
+			"ID": "44E8BAD8-44D7-418E-A7C6-ED200F5536B7",
+			"name": "sleep",
+			"graphLineCol": "S6",
+			"defaultValue": null,
+			"type": "bar",
+			"color": "#DCF3FF",
+			"meta1": null,
+			"order": 0,
+			"showOnChart": 0,
+			"showInLegend": 1
+		}
+	] 
+}
